@@ -27,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/tictactoe-ai.git
+   git clone https://github.com/hariharasudhanm01/TicTacToe-AI
    cd tictactoe-ai
    ```
 
@@ -86,7 +86,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - Thanks to the developers and the open-source community for providing the tools and resources to make this project possible.
 
 
----
+![Screenshot 2024-08-21 233151](https://github.com/user-attachments/assets/4a3d77f2-5772-4d9a-9f14-84b194ded991)
+
 
 Enjoy playing Tic-Tac-Toe with AI! 🎮
 
