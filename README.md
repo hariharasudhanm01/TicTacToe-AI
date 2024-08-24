@@ -93,4 +93,3 @@ Enjoy playing Tic-Tac-Toe with AI! 🎮
 
 ---
 
-**Note:** Replace the placeholder information such as the repository URL, your username, and contact details with your actual information before publishing.
